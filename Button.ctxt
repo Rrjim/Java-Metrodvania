@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ Write\ a\ description\ of\ class\ Button\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkMouse()
+comment3.params=factor
+comment3.target=void\ adjustTransparency(int)
+comment4.params=world
+comment4.target=void\ checkClick(greenfoot.World)
+numComments=5
